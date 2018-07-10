@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>nanoflann</name>
+  <version>1.2.3</version>
+  <description>
+    Fork of nanoflann.
+  </description>
+  <maintainer email="david@vicarious.com">
+    David A. Mely (original author: Jose Luis Blanco-Claraco)
+  </maintainer>
+  <license>BSD</license>
+
+  <!-- General dependencies -->
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
