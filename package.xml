@@ -3,13 +3,12 @@
   <name>nanoflann</name>
   <version>1.2.3</version>
   <description>
-    Fork of nanoflann.
+    nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees.
   </description>
-  <maintainer email="david@vicarious.com">
-    David A. Mely (original author: Jose Luis Blanco-Claraco)
-  </maintainer>
+  <maintainer email="devops@vicarious.com">The Vicarious DevOps Team</maintainer>
   <license>BSD</license>
 
   <!-- General dependencies -->
   <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>eigen</run_depend>
 </package>
